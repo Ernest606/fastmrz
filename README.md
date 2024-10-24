@@ -1,4 +1,5 @@
 # Fast MRZ
+THIS IS EDITED VERSION OF FAST MRZ REPOSITORY
 
 [![License](https://img.shields.io/badge/license-AGPL%203.0-34D058?color=blue)](https://github.com/sivakumar-mahalingam/fastmrz/blob/main/LICENSE)
 [![Downloads](https://static.pepy.tech/badge/fastmrz)](https://pypistats.org/packages/fastmrz)
